@@ -19,6 +19,20 @@ The source code is closed-source and is not published here.
 
 Android may show a warning because this APK is installed directly instead of through the Play Store. On Xiaomi or Redmi devices, installing from the browser download flow can avoid USB-install security blocks.
 
+## Web Version
+
+The TechDesk web version is live at:
+
+[https://techdesk-three.vercel.app](https://techdesk-three.vercel.app)
+
+## Seeded Accounts
+
+All seeded demo accounts use the password `password`.
+
+- Admin: `admin@techdesk.local`
+- Technician: `tech1@techdesk.local`
+- Employee: `employee1@techdesk.local`
+
 ## Build Notes
 
 - Expo / React Native Android build
