@@ -4,7 +4,11 @@ TechDesk Mobile is the Android app for TechDesk, a private IT support and asset 
 
 The source code is closed-source and is not published here.
 
-![TechDesk Mobile home](screenshots/techdesk-mobile-home.png)
+<p align="center">
+  <img src="screenshots/techdesk-mobile-home.png" alt="TechDesk Mobile Android home screen" width="320">
+</p>
+
+<p align="center"><sub>Fresh Android app screenshot captured from the installed APK on a connected phone.</sub></p>
 
 ## Download
 
@@ -14,22 +18,6 @@ The source code is closed-source and is not published here.
 - Device target: ARM64 Android phones
 
 Android may show a warning because this APK is installed directly instead of through the Play Store. On Xiaomi or Redmi devices, installing from the browser download flow can avoid USB-install security blocks.
-
-## Backend
-
-The app connects to the live TechDesk backend:
-
-```text
-https://techdesk-api-a6ty.onrender.com/api
-```
-
-## Test Accounts
-
-All seeded demo accounts use the password `password`.
-
-- Admin: `admin@techdesk.local`
-- Technician: `tech1@techdesk.local`
-- Employee: `employee1@techdesk.local`
 
 ## Build Notes
 
