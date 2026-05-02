@@ -1,0 +1,10 @@
+*.apk
+*.aab
+*.ipa
+*.idsig
+*.keystore
+*.jks
+*.env
+*.env.*
+node_modules/
+run-logs/
